@@ -5,8 +5,6 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: complexity_app
-    env_file:
-      - complexity_app/.env
     networks:
       - default
     ports:
