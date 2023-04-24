@@ -9,3 +9,5 @@ class Complexity(str, Enum):
     constant_complexity = "O(1)"
     exponential_complexity = "O(2^n)"
     factorial_complexity = "O(n!)"
+
+# Not used

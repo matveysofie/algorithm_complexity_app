@@ -6,3 +6,5 @@ class Algorithm(BaseModel):
     description: str
     complexity: str
     code_example: str
+
+
