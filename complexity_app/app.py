@@ -3,7 +3,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from starlette.middleware.sessions import SessionMiddleware
 
 from complexity_app.routes import router
-
 from complexity_app.settings import get_settings
 from complexity_app.utils import setup_logger
 
