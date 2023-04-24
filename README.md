@@ -12,11 +12,7 @@
     <samp>Start app</samp>
 </p>
 
-1.1 docker-compose up --build -d keydb
-
-1.2 docker-compose up --build -d kdb-panel
-
-1.3 docker-compose up --build complexity_app
+1.1 docker-compose up --build complexity_app
 
 <p align="center"> 
     <samp>Complexity of algorithms</samp>
